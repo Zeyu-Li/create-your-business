@@ -4,24 +4,28 @@
    contain the root `toctree` directive.
 
 Create Your Business (For Canadians)
-=====
+========================================
 
 
 
 License
-%%%%
+%%%%%%%
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+.. [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+.. image:: https://img.shields.io/badge/License-MIT-blue.svg
+   :alt: License
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   License
+   Contribute
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
+* :ref:`modindex`  
 * :ref:`search`
