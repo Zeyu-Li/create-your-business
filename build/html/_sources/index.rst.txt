@@ -3,8 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Create Your Business's documentation!
-================================================
+Create Your Business (For Canadians)
+=====
+
+
+
+License
+%%%%
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
 .. toctree::
    :maxdepth: 2

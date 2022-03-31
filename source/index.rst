@@ -3,11 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-# Create Your Business (For Canadians)
+Create Your Business (For Canadians)
+=====
 
 
 
-## License
+License
+%%%%
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
