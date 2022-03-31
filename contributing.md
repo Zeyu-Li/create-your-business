@@ -1,2 +1,3 @@
 # Contributing
  - [ ] - Test
+ - [ ] - Verify Changes
