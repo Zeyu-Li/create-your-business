@@ -16,7 +16,7 @@ License
    :alt: License
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
    License

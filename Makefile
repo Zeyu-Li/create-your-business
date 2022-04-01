@@ -20,4 +20,4 @@ help:
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 run:
-	sphinx-autobuild .\source\ .\build\html\
+	sphinx-autobuild source/ build/html/

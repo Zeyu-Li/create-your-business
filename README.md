@@ -1,8 +1,10 @@
 # Create Your Business (For Canadians)
 
+A helper doc for setting up and starting a business in Canada
+
 ## Development
 
-Do `sphinx-autobuild .\source\ .\build\html\` for hot reloading
+Do `sphinx-autobuild .\source\ .\build\html\` (or `make run`) for hot reloading
 
 ## Requirements
 
