@@ -1,0 +1,1 @@
+sphinx-autobuild .\docs\ .\build\html\

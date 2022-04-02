@@ -6,7 +6,10 @@
 Create Your Business (For Canadians)
 ========================================
 
+This is a doc for those who want to start a business in Canada and have a guidance on where to start and tips and tricks
 
+About
+%%%%%%%
 
 License
 %%%%%%%
