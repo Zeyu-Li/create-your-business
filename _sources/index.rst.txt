@@ -37,14 +37,30 @@ The first step to start a business. This does not have to be official but you ne
 
 Create a business
 %%%%%%%%%%%%%%%%%%%%%
-The first step to legally creating a business is to register it with the government. 
+The first step to legally creating a business is to register it with the government. To do this head over to the `government website
+<https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business after than. In doing so, you also get a business ID where you can use to open a bank account! In addition if you chose to register your name, no one else in the province will be able to claim the same name. 
+
+
+✨ **Tip**: make sure you do a quick Google search for your company name to make sure it's not conflicting with anything and to register your domain 
+
+Finance
+%%%%%%%%%%%%%%%%%%%%%
+This is not financial advice but seek a financial advisor before making any important decisions. Otherwise just keep track of all expenses, revenues, and the such in a spreadsheet or financial tracking software. In addition keep records for all transactions (ie memos, receipts, or bills) related to the business such that you can go back to them or if you are audited by the government 
+
+✨ **Tip**: It is highly recommended to keep a month over month balance sheet and financial journal. You can find many templates for them online
+
+Legal
+%%%%%%
+This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from company's concerns. 
 
 Taxes
 %%%%%%%
-Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``
+Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``. 
 
 See the `CRA website
 <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`_ for a full list of tax deductible expenses
+
+✨ **Tip**: It is also recommended to find a tax accountant or consult/firm to help you fill returns (this will be a tax write off 😎)
 
 License
 %%%%%%%
