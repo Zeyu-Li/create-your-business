@@ -28,7 +28,7 @@ For this doc we will mainly focus on **corporations** but some sections still ap
 
 Starting a business
 %%%%%%%%%%%%%%%%%%%%%
-The first step to start a business. This does not have to be official but you need to think of a general idea of the business. This should be a precise goal and should be reflected in a 1 sentence statement most people refer to as the **mission statement**
+The first step to start a business. This does not have to be official but you need to think of a general idea of the business. This should be a precise goal and should be reflected in a 1 sentence statement most people refer to as the **mission statement**.
 
 ✨ **Tip**: if you want to be extra prepared, write a doc with market analysis, target market, timeline, cost analysis, etc. Most people refer to this as the business plan. See below for an example of a plan's overview:
 
@@ -38,7 +38,7 @@ The first step to start a business. This does not have to be official but you ne
 Create a business
 %%%%%%%%%%%%%%%%%%%%%
 The first step to legally creating a business is to register it with the government. To do this head over to the `government website
-<https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business after than. In doing so, you also get a business ID where you can use to open a bank account! In addition if you chose to register your name, no one else in the province will be able to claim the same name. 
+<https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business after than. In doing so, you also get a business ID where you can use to open a bank account! In addition if you chose to register your name, no one else in the province will be able to claim the same name. Most of the documentation required are generated for you but you must keep these documents as they are the founding documents although you can make amendments for a fee. 
 
 
 ✨ **Tip**: make sure you do a quick Google search for your company name to make sure it's not conflicting with anything and to register your domain 
@@ -51,7 +51,7 @@ This is not financial advice but seek a financial advisor before making any impo
 
 Legal
 %%%%%%
-This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from company's concerns. 
+This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from company's concerns. In addition to codify the company there needs to be an annual board meeting, even if you are the sole shareholder. 
 
 Taxes
 %%%%%%%
