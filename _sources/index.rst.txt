@@ -47,6 +47,8 @@ After registering your corporation federally, you must register your federal cor
 
 ⚠ **Warning**: Registering a corporation with the province of Alberta requires a physical trip to a office because it cannot be done online at the time of writing in 2022 🙄
 
+🛑 **Alert**: When conducting business in a province you are required to register as an extra-provincial, however generally this does not include single client if you are consulting or servicing or it is temporary. 
+
 📚 **Resource**: follow this `YouTube tutorial
 <https://www.youtube.com/watch?v=VqskqXaw_kA>`_ to fill out a federal incorporation online
 
