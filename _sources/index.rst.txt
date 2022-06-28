@@ -37,11 +37,18 @@ The first step to start a business. This does not have to be official but you ne
 
 Create a business
 %%%%%%%%%%%%%%%%%%%%%
-The first step to legally creating a business is to register it with the government. To do this head over to the `government website
+The first step to legally creating a business is to register it with the government. There are two options here, federal and provincial corporations. The differences between these are extremely small but provincial tends to be more expensive and less protection outside of the province so I'd recommend registering federally. To do this head over to the `government website
 <https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business after than. In doing so, you also get a business ID where you can use to open a bank account! In addition if you chose to register your name, no one else in the province will be able to claim the same name. Most of the documentation required are generated for you but you must keep these documents as they are the founding documents although you can make amendments for a fee. 
+
+After registering your corporation federally, you must register your federal corporation in your home province/jurisdiction as an **extra-provincial registration** unless you already did so in the federal website on the last step. This jurisdiction should have a valid (mailing) address that you have access to. You may also need to do another name search provincially 😔. 
 
 
 ✨ **Tip**: make sure you do a quick Google search for your company name to make sure it's not conflicting with anything and to register your domain 
+
+⚠ **Warning**: Registering a corporation with the province of Alberta requires a physical trip to a office because it cannot be done online at the time of writing in 2022 🙄
+
+📚 **Resource**: follow this `YouTube tutorial
+<https://www.youtube.com/watch?v=VqskqXaw_kA>`_ to fill out a federal incorporation online
 
 Finance
 %%%%%%%%%%%%%%%%%%%%%
@@ -49,13 +56,16 @@ This is not financial advice but seek a financial advisor before making any impo
 
 ✨ **Tip**: It is highly recommended to keep a month over month balance sheet and financial journal. You can find many templates for them online
 
+📚 **Resource**: See the general costs in this `YouTube Video
+<https://www.youtube.com/watch?v=yVrirpva4RI>`_
+
 Legal
 %%%%%%
 This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from company's concerns. In addition to codify the company there needs to be an annual board meeting, even if you are the sole shareholder. 
 
 Taxes
 %%%%%%%
-Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``. 
+Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``. Also note when you are paying taxes, you will need to pay provincial and federal tax but note that small business have reduced rates (in fact some provincial small biz taxes are 0%!).
 
 See the `CRA website
 <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`_ for a full list of tax deductible expenses
