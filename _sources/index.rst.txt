@@ -10,7 +10,7 @@ This is a doc for those who want to start a business in Canada and have a guidan
 
 About
 %%%%%%%
-Businesses as an entity have been the cornerstone of economy. Creating a business comes with many challenges but will be rewarding if successful (big if here). 
+Businesses as an entity have been the cornerstone of the economy. Creating a business comes with many challenges but will be rewarding if successful (big if here). 
 With that being said and you still want to peruse it, read on and good luck!
 
 🚧 **Warning**: 20% of businesses within the first year, 30% by year 2 and 50% by the five year mark according to sources
@@ -38,7 +38,7 @@ The first step to start a business. This does not have to be official but you ne
 Create a business
 %%%%%%%%%%%%%%%%%%%%%
 The first step to legally creating a business is to register it with the government. There are two options here, federal and provincial corporations. The differences between these are extremely small but provincial tends to be more expensive and less protection outside of the province so I'd recommend registering federally. To do this head over to the `government website
-<https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business after than. In doing so, you also get a business ID where you can use to open a bank account! In addition if you chose to register your name, no one else in the province will be able to claim the same name. Most of the documentation required are generated for you but you must keep these documents as they are the founding documents although you can make amendments for a fee. 
+<https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06939.html>`_ for registration and click on the incorporate button. Follow the steps and you will officially be a business afterwords. In doing so, you also get a business ID to open a bank account! In addition if you choose to register your name, no one else in the province will be able to claim the same name. Most of the documentation required is generated for you but you must keep these documents as they are the founding documents although you can make amendments for a fee. 
 
 After registering your corporation federally, you must register your federal corporation in your home province/jurisdiction as an **extra-provincial registration** unless you already did so in the federal website on the last step. This jurisdiction should have a valid (mailing) address that you have access to. You may also need to do another name search provincially 😔. 
 
@@ -63,11 +63,11 @@ This is not financial advice but seek a financial advisor before making any impo
 
 Legal
 %%%%%%
-This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from company's concerns. In addition to codify the company there needs to be an annual board meeting, even if you are the sole shareholder. 
+This is not legal advice but you should seek legal advice from a trusted source. With that said, here is my non-legal advice. Create a contract for yourself as the sole owner and employee. This will not make you legally liable from the company's concerns. In addition to codifying the company there needs to be an annual board meeting, even if you are the sole shareholder. 
 
 Taxes
 %%%%%%%
-Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``. Also note when you are paying taxes, you will need to pay provincial and federal tax but note that small business have reduced rates (in fact some provincial small biz taxes are 0%!).
+Taxes are one of the highest expenses for businesses. However businesses can take advantage of many tax write offs since ``revenue - expenses = profit``. Also note when you are paying taxes, you will need to pay provincial and federal tax but note that small businesses have reduced rates (in fact some provincial small biz taxes are 0%!).
 
 See the `CRA website
 <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`_ for a full list of tax deductible expenses
